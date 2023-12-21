@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Belliella baltica",
+        "cell_shape": "rod",
+        "mean length (microns)": "0.9-3.0",
+        "mean width (microns)": "0.3-0.5",
+        "cell_arrangement": "clump",
+        "gram_staining": "negative"
+    },
+    {
+        "name": "Hongiella halophila",
+        "cell_shape": "rod",
+        "mean length (microns)": "1.1-1.7",
+        "mean width (microns)": "0.4-0.5",
+        "cell_arrangement": "not indicated",
+        "gram_staining": "negative"
+    },
+    {
+        "name": "Nitratireductor aquibiodomus",
+        "cell_shape": "rod",
+        "mean length (microns)": "2.0-3.0",
+        "mean width (microns)": "1",
+        "cell_arrangement": "not indicated",
+        "gram_staining": "negative"
+    },
+    {
+        "name": "Paenibacillus favisporus",
+        "cell_shape": "rod",
+        "mean length (microns)": "02-Mar",
+        "mean width (microns)": "0.5-0.7",
+        "cell_arrangement": "clump",
+        "gram_staining": "variable"
+    },
+    {
+        "name": "Nocardia asiatica",
+        "cell_shape": "not indicated",
+        "mean length (microns)": NaN,
+        "mean width (microns)": NaN,
+        "cell_arrangement": "not indicated",
+        "gram_staining": "positive"
+    },
+    {
+        "name": "Sulfitobacter delicatus",
+        "cell_shape": "rod",
+        "mean length (microns)": "1.35",
+        "mean width (microns)": "0.7",
+        "cell_arrangement": "none",
+        "gram_staining": "negative"
+    },
+    {
+        "name": "Cellulomonas terrae",
+        "cell_shape": "rod",
+        "mean length (microns)": NaN,
+        "mean width (microns)": NaN,
+        "cell_arrangement": "not indicated",
+        "gram_staining": "positive"
+    },
+    {
+        "name": "Mycobacterium paraseoulense",
+        "cell_shape": "rod",
+        "mean length (microns)": "Not indicated",
+        "mean width (microns)": "Not indicated",
+        "cell_arrangement": "not indicated",
+        "gram_staining": NaN
+    },
+    {
+        "name": "Providencia sneebia",
+        "cell_shape": "rod",
+        "mean length (microns)": NaN,
+        "mean width (microns)": NaN,
+        "cell_arrangement": "clump",
+        "gram_staining": "negative"
+    },
+    {
+        "name": "Psychrobacter lutiphocae",
+        "cell_shape": "ovoid/coccobacillus",
+        "mean length (microns)": NaN,
+        "mean width (microns)": NaN,
+        "cell_arrangement": NaN,
+        "gram_staining": "negative"
+    }
+]

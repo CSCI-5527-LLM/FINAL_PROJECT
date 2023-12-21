@@ -1,0 +1,496 @@
+[
+    {
+        "model": "gpt-3.5-turbo",
+        "filename": "output_file_gpt-3.5-turbo.csv",
+        "output": [
+            {
+                "name": "Streptomyces speibonae",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "Dialister invisus",
+                "cell_shape": "small cocci or ovoid cocci",
+                "cell_size": "0.3\u20130.4\u00d70.3\u20130.6 \u03bcm",
+                "cell_arrangement": "occur singly, in pairs, in short chains and in small clumps",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Fulvimarina pelagi",
+                "cell_shape": "short rods",
+                "cell_size": "",
+                "cell_arrangement": "occur singly or in pairs",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Salinibacterium amurskyense",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Belliella baltica",
+                "cell_shape": "rod-shaped",
+                "cell_size": "width, 0.3\u20130.5 \u03bcm; length, 0.9\u20133.0 \u03bcm",
+                "cell_arrangement": "",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Hongiella halophila",
+                "cell_shape": "approximately 1\u00b70\u20131\u00b78\u00d70\u00b73\u20130\u00b75\u2005\u03bcm",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Nitratireductor aquibiodomus",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Paenibacillus favisporus",
+                "cell_shape": "rods",
+                "cell_size": "2\u20133 \u03bcm long and 0.5\u20130.7 \u03bcm wide",
+                "cell_arrangement": "",
+                "gram_staining": "Gram-variable"
+            },
+            {
+                "name": "Nocardia asiatica",
+                "cell_shape": "cylindrical",
+                "cell_size": "0.3\u20130.5\u00d71.5\u20131.7 \u03bcm",
+                "cell_arrangement": "",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "Sulfitobacter delicatus",
+                "cell_shape": "Rod-shaped",
+                "cell_size": "about 0.7\u20130.9 \u03bcm in diameter",
+                "cell_arrangement": "single",
+                "gram_staining": "Gram-negative"
+            }
+        ]
+    },
+    {
+        "model": "gpt-4-0314",
+        "filename": "output_file_gpt-4-0314.csv",
+        "output": [
+            {
+                "name": "Streptomyces speibonae",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "aerial mycelium and blue substrate mycelium",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "Dialister invisus",
+                "cell_shape": "small cocci or ovoid cocci",
+                "cell_size": "0.3\u20130.4\u00d70.3\u20130.6 \u03bcm",
+                "cell_arrangement": "singly, in pairs, in short chains and in small clumps",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Fulvimarina pelagi",
+                "cell_shape": "short rods",
+                "cell_size": "",
+                "cell_arrangement": "singly or in pairs",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Salinibacterium amurskyense",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Belliella baltica",
+                "cell_shape": "rod-shaped",
+                "cell_size": "width, 0.3\u20130.5 \u03bcm; length, 0.9\u20133.0 \u03bcm",
+                "cell_arrangement": "",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Hongiella halophila",
+                "cell_shape": "",
+                "cell_size": "1.0\u20131.8\u00d70.3\u20130.5 \u03bcm",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Nitratireductor aquibiodomus",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Paenibacillus favisporus",
+                "cell_shape": "rods",
+                "cell_size": "2\u20133 \u03bcm long and 0.5\u20130.7 \u03bcm wide",
+                "cell_arrangement": "motile",
+                "gram_staining": "Gram-variable"
+            }
+        ]
+    },
+    {
+        "model": "gpt-4-0613",
+        "filename": "output_file_gpt-4-0613.csv",
+        "output": [
+            {
+                "name": "Streptomyces speibonae",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "aerial mycelium and a blue substrate mycelium",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "Dialister invisus",
+                "cell_shape": "small cocci or ovoid cocci",
+                "cell_size": "0.3\u20130.4\u00d70.3\u20130.6 \u03bcm",
+                "cell_arrangement": "occur singly, in pairs, in short chains and in small clumps",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Fulvimarina pelagi",
+                "cell_shape": "short rods",
+                "cell_size": "",
+                "cell_arrangement": "singly or in pairs",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Salinibacterium amurskyense",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Belliella baltica",
+                "cell_shape": "rod-shaped",
+                "cell_size": "width, 0.3\u20130.5 \u03bcm; length, 0.9\u20133.0 \u03bcm",
+                "cell_arrangement": "",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Hongiella halophila",
+                "cell_shape": "",
+                "cell_size": "1.0\u20131.8\u00d70.3\u20130.5 \u03bcm",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Nitratireductor aquibiodomus",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Paenibacillus favisporus",
+                "cell_shape": "rods",
+                "cell_size": "2\u20133 \u03bcm long and 0.5\u20130.7 \u03bcm wide",
+                "cell_arrangement": "motile",
+                "gram_staining": "Gram-variable"
+            },
+            {
+                "name": "Nocardia asiatica",
+                "cell_shape": "cylindrical",
+                "cell_size": "0.3\u20130.5\u00d71.5\u20131.7 \u03bcm",
+                "cell_arrangement": "non-motile",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "Sulfitobacter delicatus",
+                "cell_shape": "Rod-shaped",
+                "cell_size": "about 0.7\u20130.9 \u03bcm in diameter",
+                "cell_arrangement": "single",
+                "gram_staining": "Gram-negative"
+            }
+        ]
+    },
+    {
+        "model": "gpt-4-1106-preview",
+        "filename": "output_file_gpt-4-1106-preview.csv",
+        "output": [
+            {
+                "name": "Streptomyces speibonae",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "forms a grey aerial mycelium and a blue substrate mycelium",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "Dialister invisus",
+                "cell_shape": "small cocci or ovoid cocci",
+                "cell_size": "0.3\u20130.4\u00d70.3\u20130.6 \u03bcm",
+                "cell_arrangement": "singly, in pairs, in short chains and in small clumps",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Fulvimarina pelagi",
+                "cell_shape": "short rods",
+                "cell_size": "",
+                "cell_arrangement": "singly or in pairs",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Salinibacterium amurskyense",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Belliella baltica",
+                "cell_shape": "rod-shaped",
+                "cell_size": "width, 0.3\u20130.5 \u03bcm; length, 0.9\u20133.0 \u03bcm",
+                "cell_arrangement": "",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "Hongiella halophila",
+                "cell_shape": "",
+                "cell_size": "1.0\u20131.8\u00d70.3\u20130.5 \u03bcm",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Nitratireductor aquibiodomus",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Paenibacillus favisporus",
+                "cell_shape": "rods",
+                "cell_size": "2\u20133 \u03bcm long and 0.5\u20130.7 \u03bcm wide",
+                "cell_arrangement": "motile, spore-forming",
+                "gram_staining": "Gram-variable"
+            },
+            {
+                "name": "Nocardia asiatica",
+                "cell_shape": "cylindrical spores",
+                "cell_size": "0.3\u20130.5\u00d71.5\u20131.7 \u03bcm",
+                "cell_arrangement": "non-motile, forming a beige substrate with fragmented substrate mycelia and straight to flexuous aerial mycelia",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "Sulfitobacter delicatus",
+                "cell_shape": "Rod-shaped",
+                "cell_size": "about 0.7\u20130.9 \u03bcm in diameter",
+                "cell_arrangement": "single",
+                "gram_staining": "Gram-negative"
+            }
+        ]
+    },
+    {
+        "model": "llama2-7b-chat",
+        "filename": "output_file_llama2-7b-chat.csv",
+        "output": [
+            {
+                "name": "",
+                "cell_shape": "gray",
+                "cell_size": "",
+                "cell_arrangement": "verticils not present",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "",
+                "cell_shape": "small cocci or ovoid cocci",
+                "cell_size": "0.3-0.4 x 0.3-0.6 micrometer",
+                "cell_arrangement": "singly, in pairs, in short chains and in small clumps",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "",
+                "cell_shape": "short rods",
+                "cell_size": "",
+                "cell_arrangement": "singly or in pairs",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "",
+                "cell_shape": "rod-shaped",
+                "cell_size": "0.3-0.5 micrometres",
+                "cell_arrangement": "smooth, convex and entire",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "Nitratireductor aquibiodomus",
+                "cell_shape": null,
+                "cell_size": null,
+                "cell_arrangement": null,
+                "gram_staining": null
+            },
+            {
+                "name": "",
+                "cell_shape": "rod",
+                "cell_size": "2-3 \u03bcm",
+                "cell_arrangement": "subterminal",
+                "gram_staining": " variable"
+            },
+            {
+                "name": "",
+                "cell_shape": "partly acid-fast",
+                "cell_size": "0\u00b73\u20130\u00b75\u00d71\u00b75\u20131\u00b77\u2005\u03bcm",
+                "cell_arrangement": "straight to flexuous",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "",
+                "cell_shape": "rod-shaped",
+                "cell_size": "about 0\u00b77\u20130\u00b79\u2005\u03bcm in diameter",
+                "cell_arrangement": "single",
+                "gram_staining": "Gram-negative"
+            }
+        ]
+    },
+    {
+        "model": "llama2-7b",
+        "filename": "output_file_llama2-7b.csv",
+        "output": [
+            {
+                "name": "",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "",
+                "cell_shape": "small cocci or ovoid cocci",
+                "cell_size": "0.3-0.4 x 0.3-0.6 micrometres",
+                "cell_arrangement": "singly, in pairs, in short chains and in small clumps",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "",
+                "cell_shape": "short rods",
+                "cell_size": "",
+                "cell_arrangement": "singly or in pairs",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "",
+                "cell_shape": "rod-shaped",
+                "cell_size": "0.3-0.5 \u03bcm",
+                "cell_arrangement": "smooth, convex and entire",
+                "gram_staining": "Gram-negative"
+            },
+            {
+                "name": "",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "",
+                "cell_shape": "rod",
+                "cell_size": "2\u20133\u2005\u03bcm",
+                "cell_arrangement": "subterminal",
+                "gram_staining": "variable"
+            },
+            {
+                "name": "",
+                "cell_shape": "aerobic",
+                "cell_size": "0\u00b73\u20130\u00b75\u00d71\u00b75\u20131\u00b77\u2005\u03bcm",
+                "cell_arrangement": "straight to flexuous",
+                "gram_staining": "Gram-positive"
+            },
+            {
+                "name": "",
+                "cell_shape": "rod-shaped",
+                "cell_size": "about 0\u00b77\u20130\u00b79\u2005\u03bcm in diameter",
+                "cell_arrangement": "single",
+                "gram_staining": "Gram-negative"
+            }
+        ]
+    },
+    {
+        "model": "phi-2",
+        "filename": "output_file_phi-2.csv",
+        "output": [
+            {
+                "name": "Streptomyces speibonae sp. nov.",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {},
+            {
+                "name": "Fulvimarina pelagi",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {},
+            {
+                "name": "Belliella baltica",
+                "cell_shape": "rod shaped",
+                "cell_size": "0.3-0.5 \u03bcm",
+                "cell_arrangement": "convex and entire",
+                "gram_staining": "Gram negative"
+            },
+            {},
+            {
+                "description": "Description is the same as that given for the genus.",
+                "type": "strain",
+                "growth_condition": "0\u201350\u2005g NaCl l\u22121",
+                "isolation_source": "the marine denitrification system of the Montreal Biodome, Canada."
+            },
+            {
+                "name": "Paenibacillus favisporus",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": ""
+            },
+            {
+                "name": "",
+                "cell_shape": "",
+                "cell_size": "",
+                "cell_arrangement": "",
+                "gram_staining": "",
+                "type": ""
+            },
+            {}
+        ]
+    }
+]

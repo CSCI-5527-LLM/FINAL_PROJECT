@@ -1,0 +1,1933 @@
+[
+    {
+        "model": "gpt-3.5-turbo",
+        "filename": "output_file_gpt-3.5-turbo.csv",
+        "output": [
+            {
+                "name": {
+                    "value": "Belliella baltica",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "0.3-0.5 \u03bcm in width and 0.9-3.0 \u03bcm in length",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.3-0.5 \u03bcm in width and 0.9-3.0 \u03bcm in length",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "0.3-0.5 \u03bcm in width and 0.9-3.0 \u03bcm in length",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Hongiella halophila",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Approximately 1.0-1.8\u00d70.3-0.5 \u03bcm",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Nitratireductor aquibiodomus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Paenibacillus favisporus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Spore-forming rods",
+                    "correctness": 1
+                },
+                "cell_size": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-variable",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Nocardia asiatica",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Sulfitobacter delicatus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "0.7-0.9 \u03bcm in diameter",
+                "cell_arrangement": {
+                    "value": "Single",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.7-0.9 \u03bcm in diameter",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "0.7-0.9 \u03bcm in diameter",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Cellulomonas terrae",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Straight rods",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Mycobacterium paraseoulense",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "acid-alcohol-fast",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Providencia sneebia",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Psychrobacter lutiphocae",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "diploid coccobacilli",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            }
+        ]
+    },
+    {
+        "model": "gpt-4-0314",
+        "filename": "output_file_gpt-4-0314.csv",
+        "output": [
+            {
+                "name": {
+                    "value": "Belliella baltica",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "0.3-0.5 \u03bcm in width and 0.9-3.0 \u03bcm in length",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.3-0.5 \u03bcm in width and 0.9-3.0 \u03bcm in length",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "0.3-0.5 \u03bcm in width and 0.9-3.0 \u03bcm in length",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Hongiella halophila",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Not specified",
+                    "correctness": 0
+                },
+                "cell_size": "1.0-1.8 \u03bcm by 0.3-0.5 \u03bcm",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Not specified",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "1.0-1.8 \u03bcm by 0.3-0.5 \u03bcm",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "1.0-1.8 \u03bcm by 0.3-0.5 \u03bcm",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Nitratireductor aquibiodomus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Paenibacillus favisporus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Spore-forming rods",
+                    "correctness": 1
+                },
+                "cell_size": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-variable",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Nocardia asiatica",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "cylindrical",
+                    "correctness": 0
+                },
+                "cell_size": "0.3-0.5 \u03bcm by 1.5-1.7 \u03bcm",
+                "cell_arrangement": {
+                    "value": "straight to flexuous aerial mycelia",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.3-0.5 \u03bcm by 1.5-1.7 \u03bcm",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "0.3-0.5 \u03bcm by 1.5-1.7 \u03bcm",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Sulfitobacter delicatus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "0.7-0.9 \u03bcm in diameter",
+                "cell_arrangement": {
+                    "value": "Single",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.7-0.9 \u03bcm in diameter",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "0.7-0.9 \u03bcm in diameter",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Cellulomonas terrae",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "straight rods",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Mycobacterium paraseoulense",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "rod-shaped, with frequent curved cells",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "Spores and filaments are not present",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "acid-alcohol-fast",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Providencia sneebia",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Psychrobacter lutiphocae",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "diploid coccobacilli",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "non-motile",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            }
+        ]
+    },
+    {
+        "model": "gpt-4-0613",
+        "filename": "output_file_gpt-4-0613.csv",
+        "output": [
+            {
+                "name": {
+                    "value": "Belliella baltica",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "0.3-0.5 \u03bcm in width and 0.9-3.0 \u03bcm in length",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.3-0.5 \u03bcm in width and 0.9-3.0 \u03bcm in length",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "0.3-0.5 \u03bcm in width and 0.9-3.0 \u03bcm in length",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Hongiella halophila",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "1.0-1.8 \u03bcm by 0.3-0.5 \u03bcm",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "1.0-1.8 \u03bcm by 0.3-0.5 \u03bcm",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "1.0-1.8 \u03bcm by 0.3-0.5 \u03bcm",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Nitratireductor aquibiodomus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Paenibacillus favisporus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Spore-forming rods",
+                    "correctness": 1
+                },
+                "cell_size": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                "cell_arrangement": {
+                    "value": "Spores slightly swell the sporangia and they are in subterminal position in cells",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-variable",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Nocardia asiatica",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Spores are cylindrical",
+                    "correctness": 0
+                },
+                "cell_size": "0.3-0.5 \u03bcm by 1.5-1.7 \u03bcm",
+                "cell_arrangement": {
+                    "value": "Aerial mycelia are straight to flexuous with a mean spore number of 2-20",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.3-0.5 \u03bcm by 1.5-1.7 \u03bcm",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "0.3-0.5 \u03bcm by 1.5-1.7 \u03bcm",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Sulfitobacter delicatus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "0.7-0.9 \u03bcm in diameter",
+                "cell_arrangement": {
+                    "value": "Single",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.7-0.9 \u03bcm in diameter",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "0.7-0.9 \u03bcm in diameter",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Cellulomonas terrae",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "straight rods",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Mycobacterium paraseoulense",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped, with frequent curved cells",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "Spores and filaments are not present",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Acid-alcohol-fast",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Providencia sneebia",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Psychrobacter lutiphocae",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "diploid coccobacilli",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "non-motile",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative-staining",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            }
+        ]
+    },
+    {
+        "model": "gpt-4-1106-preview",
+        "filename": "output_file_gpt-4-1106-preview.csv",
+        "output": [
+            {
+                "name": {
+                    "value": "Belliella baltica",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "Width: 0.3-0.5 \u03bcm; Length: 0.9-3.0 \u03bcm",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "Width: 0.3-0.5 \u03bcm; Length: 0.9-3.0 \u03bcm",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "Width: 0.3-0.5 \u03bcm; Length: 0.9-3.0 \u03bcm",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Hongiella halophila",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "1.0-1.8 \u03bcm by 0.3-0.5 \u03bcm",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "1.0-1.8 \u03bcm by 0.3-0.5 \u03bcm",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "1.0-1.8 \u03bcm by 0.3-0.5 \u03bcm",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Nitratireductor aquibiodomus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Paenibacillus favisporus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Spore-forming rods",
+                    "correctness": 1
+                },
+                "cell_size": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-variable",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "2-3 \u03bcm long and 0.5-0.7 \u03bcm wide",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Nocardia asiatica",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "cylindrical spores",
+                    "correctness": 0
+                },
+                "cell_size": "0.3-0.5 \u03bcm by 1.5-1.7 \u03bcm",
+                "cell_arrangement": {
+                    "value": "Substrate mycelia are fragmented, aerial mycelia are straight to flexuous with a mean spore number of 2-20",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.3-0.5 \u03bcm by 1.5-1.7 \u03bcm",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "0.3-0.5 \u03bcm by 1.5-1.7 \u03bcm",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Sulfitobacter delicatus",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "about 0.7-0.9 \u03bcm in diameter",
+                "cell_arrangement": {
+                    "value": "single",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "about 0.7-0.9 \u03bcm in diameter",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "about 0.7-0.9 \u03bcm in diameter",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Cellulomonas terrae",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "straight rods",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Mycobacterium paraseoulense",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Generally rod-shaped, with frequent curved cells",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "No spores or filaments",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Acid-alcohol-fast",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Providencia sneebia",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Psychrobacter lutiphocae",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "diploid coccobacilli",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "non-motile",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            }
+        ]
+    },
+    {
+        "model": "llama2-7b-chat",
+        "filename": "output_file_llama2-7b-chat.csv",
+        "output": [
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "0.3-0.5 micrometers",
+                "cell_arrangement": {
+                    "value": "smooth, convex and entire",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.3-0.5 micrometers",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "0.3-0.5 micrometers",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "motile",
+                    "correctness": 0
+                },
+                "cell_size": "2-3\u2005\u03bcm",
+                "cell_arrangement": {
+                    "value": "rods",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-variable",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "2-3\u2005\u03bcm",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "2-3\u2005\u03bcm",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "aerobic",
+                    "correctness": 0
+                },
+                "cell_size": "0.3-0.5 x 1.5-1.7 micrometers",
+                "cell_arrangement": {
+                    "value": "fragmented",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.3-0.5 x 1.5-1.7 micrometers",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "0.3-0.5 x 1.5-1.7 micrometers",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": null,
+                    "correctness": 0
+                },
+                "cellShape": null,
+                "cellSize": null,
+                "cellArrangement": null,
+                "gramStaining": "Gram-negative",
+                "cell_shape": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "cell_arrangement": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "missing",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "general",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "acid-alcohol-fast",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "up to 4 mm",
+                "cell_arrangement": {
+                    "value": "convex",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "up to 4 mm",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "up to 4 mm",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Gram-negative-staining",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            }
+        ]
+    },
+    {
+        "model": "llama2-7b",
+        "filename": "output_file_llama2-7b.csv",
+        "output": [
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "0\u00b73-0\u00b75\u2005\u03bcm",
+                "cell_arrangement": {
+                    "value": "smooth",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0\u00b73-0\u00b75\u2005\u03bcm",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "0\u00b73-0\u00b75\u2005\u03bcm",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "approximately 1\u00b70-1\u00b78\u00d70\u00b73-0\u00b75\u2005\u03bcm",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "approximately 1\u00b70-1\u00b78\u00d70\u00b73-0\u00b75\u2005\u03bcm",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "approximately 1\u00b70-1\u00b78\u00d70\u00b73-0\u00b75\u2005\u03bcm",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "motile",
+                    "correctness": 0
+                },
+                "cell_size": "2-3\u2005\u03bcm",
+                "cell_arrangement": {
+                    "value": "rods",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-variable",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "2-3\u2005\u03bcm",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "2-3\u2005\u03bcm",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "aerobic",
+                    "correctness": 0
+                },
+                "cell_size": "0.3-0.5 x 1.5-1.7 micrometers",
+                "cell_arrangement": {
+                    "value": "fragmented",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.3-0.5 x 1.5-1.7 micrometers",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "0.3-0.5 x 1.5-1.7 micrometers",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "about 0\u00b77-0\u00b79\u2005\u03bcm in diameter",
+                "cell_arrangement": {
+                    "value": "single",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "about 0\u00b77-0\u00b79\u2005\u03bcm in diameter",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "about 0\u00b77-0\u00b79\u2005\u03bcm in diameter",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "straight rods",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "smooth colonies",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-positive",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "general",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "acid-alcohol-fast",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "up to 4 mm",
+                "cell_arrangement": {
+                    "value": "convex",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "up to 4 mm",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "up to 4 mm",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "",
+                    "correctness": 0
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Gram-negative-staining",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            }
+        ]
+    },
+    {
+        "model": "phi-2",
+        "filename": "output_file_phi-2.csv",
+        "output": [
+            {
+                "name": {
+                    "value": "Belliella baltica sp. nov.",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "0.9-3.0 \u03bcm",
+                "cell_arrangement": {
+                    "value": "oxidase- and catalase-positive",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "0.9-3.0 \u03bcm",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "0.9-3.0 \u03bcm",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "cell_arrangement": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "missing",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Nitratireductor aquibiodomus sp.",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "Unknown",
+                    "correctness": 0
+                },
+                "cell_size": "Unknown",
+                "cell_arrangement": {
+                    "value": "Unknown",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "Negative",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "Unknown",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "Unknown",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "cell_arrangement": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "missing",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Nocardia asiatica",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "beige substrate",
+                    "correctness": 0
+                },
+                "cell_size": "small",
+                "cell_arrangement": {
+                    "value": "aerial mycelium",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "partially acid-fast",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "small",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "small",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "cell_arrangement": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "missing",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Cellulomonas terrae",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "straight rod",
+                    "correctness": 0
+                },
+                "cell_size": "unknown",
+                "cell_arrangement": {
+                    "value": "unknown",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "negative",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "unknown",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "unknown",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "Mycobacterium paraseoulense",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "rod-shaped",
+                    "correctness": 1
+                },
+                "cell_size": "",
+                "cell_arrangement": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "gram_staining": {
+                    "value": "acid-alcohol-fast",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "",
+                    "correctness": 1
+                }
+            },
+            {
+                "name": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "cell_shape": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean length (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "mean width (microns)": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "cell_arrangement": {
+                    "value": "missing",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "missing",
+                    "correctness": 0
+                }
+            },
+            {
+                "name": {
+                    "value": "Psychrobacter lutiphocae sp. nov.",
+                    "correctness": 1
+                },
+                "cell_shape": {
+                    "value": "non-spore forming, coccobacillus",
+                    "correctness": 1
+                },
+                "cell_size": "not specified",
+                "cell_arrangement": {
+                    "value": "diploid",
+                    "correctness": 0
+                },
+                "gram_staining": {
+                    "value": "Gram-negative staining",
+                    "correctness": 1
+                },
+                "mean length (microns)": {
+                    "value": "not specified",
+                    "correctness": 1
+                },
+                "mean width (microns)": {
+                    "value": "not specified",
+                    "correctness": 1
+                }
+            }
+        ]
+    }
+]
